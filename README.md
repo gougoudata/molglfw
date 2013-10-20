@@ -1,4 +1,4 @@
-molglfw
-=======
+molgl
+=====
 
-Simple visualizer for VASP output
+Set of GLFW routines for working with molecular structures
